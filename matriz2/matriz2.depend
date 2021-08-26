@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598658278 source:c:\users\damian\desktop\algoritmos\trabajos\matriz2\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
