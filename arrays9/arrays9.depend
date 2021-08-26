@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604434770 source:c:\users\damian\desktop\algoritmos\trabajos\arrays9\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
