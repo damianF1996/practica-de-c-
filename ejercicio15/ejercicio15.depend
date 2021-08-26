@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591926694 source:c:\users\damian\desktop\algoritmos\trabajos\ejercicio15\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
