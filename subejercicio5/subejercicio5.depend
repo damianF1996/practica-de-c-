@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597551709 source:c:\users\damian\desktop\algoritmos\trabajos\subejercicio5\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
